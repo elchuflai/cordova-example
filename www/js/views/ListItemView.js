@@ -1,4 +1,4 @@
-templates.listItemView = "app/views/ListItemView.html";
+templates.listItemView = "/views/ListItemView.html";
 
 window.ListItemView = Backbone.View.extend({
 
